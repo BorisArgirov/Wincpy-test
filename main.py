@@ -13,7 +13,7 @@ print(report)
 
 player = 'Ruud Gullit'
 first_name = player[player.find('Ruud'):4]
-#first_name = player[first:4]
+
 print(first_name)
 last_name_len = len(player[4:10])
 name_short = 'R. Gullit'

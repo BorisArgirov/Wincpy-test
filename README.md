@@ -1,2 +1,2 @@
-# test
+# Wincpy
 My first repository
